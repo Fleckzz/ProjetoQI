@@ -64,4 +64,4 @@ Desta forma conseguindo acesso total pelo site e assim podendo acessar dentro do
 
 # Pessoas Desenvolvedoras do Projeto
 
- [<br><sub>Bernardo Fleck Rodrigues</sub>](https://github.com/fleckzz)
+ [<br><sub>Bernardo Fleck Rodrigues</sub>](https://github.com/fleckzz)  [<br><sub>Diego Wobeto</sub>](https://github.com/)
