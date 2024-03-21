@@ -1,9 +1,11 @@
-# AutoBoot
+# Título e Imagem de capa
 
 
 <p aling="center">
 <img loading="lazy" src="https://github.com/Fleckzz/ProjetoQI/assets/164113379/e909ad83-91b1-4f2f-a844-a38c82c9c319"/>
 </p>
+
+# Badges
 
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=PRONTO&color=GREEN&style=for-the-badge"/>
